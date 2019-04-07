@@ -1,9 +1,11 @@
 /* Project Name: COMP308 Assignment2
    Name: Kranthi kumar G J
    Student id: 300976059
-   Date: 05-APR-2019 */
+   Date: 05-APR-2019
+   file name:user.js
+    */
 
-   
+
 // require modules for our User Model
 let mongoose = require("mongoose");
 let passportLocalMongoose = require("passport-local-mongoose");
